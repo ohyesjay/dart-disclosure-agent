@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+*.db
+*.db-*
+data/index/
+corpus/
+raw/
+output/
+tmp/

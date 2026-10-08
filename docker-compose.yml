@@ -1,0 +1,11 @@
+services:
+  disclosure-agent:
+    build: .
+    env_file: .env
+    environment:
+      SEARCH_DB: /data/index/search.db
+    ports:
+      - "80:80"
+    volumes:
+      - ./data/index:/data/index:ro
+    restart: unless-stopped
