@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "COV-P01",
+    "category": "periodic_all_companies",
+    "question": "삼성전자의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260310002820"
+    ],
+    "expected_targets": [
+      "삼성전자"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P02",
+    "category": "periodic_all_companies",
+    "question": "SK하이닉스의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260317000635"
+    ],
+    "expected_targets": [
+      "SK하이닉스"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P03",
+    "category": "periodic_all_companies",
+    "question": "삼성전기의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260310003071"
+    ],
+    "expected_targets": [
+      "삼성전기"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P04",
+    "category": "periodic_all_companies",
+    "question": "한미반도체의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260312001230"
+    ],
+    "expected_targets": [
+      "한미반도체"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P05",
+    "category": "periodic_all_companies",
+    "question": "LG이노텍의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260312001270"
+    ],
+    "expected_targets": [
+      "LG이노텍"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P06",
+    "category": "periodic_all_companies",
+    "question": "현대차의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001394"
+    ],
+    "expected_targets": [
+      "현대자동차"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P07",
+    "category": "periodic_all_companies",
+    "question": "기아의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260312001224"
+    ],
+    "expected_targets": [
+      "기아"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P08",
+    "category": "periodic_all_companies",
+    "question": "현대모비스의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260309001878"
+    ],
+    "expected_targets": [
+      "현대모비스"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P09",
+    "category": "periodic_all_companies",
+    "question": "현대오토에버의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001324"
+    ],
+    "expected_targets": [
+      "현대오토에버"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P10",
+    "category": "periodic_all_companies",
+    "question": "레인보우로보틱스의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260320000803"
+    ],
+    "expected_targets": [
+      "레인보우로보틱스"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P11",
+    "category": "periodic_all_companies",
+    "question": "두산로보틱스의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001562"
+    ],
+    "expected_targets": [
+      "두산로보틱스"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P12",
+    "category": "periodic_all_companies",
+    "question": "LG에너지솔루션의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260312000217"
+    ],
+    "expected_targets": [
+      "LG에너지솔루션"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P13",
+    "category": "periodic_all_companies",
+    "question": "삼성SDI의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260310002954"
+    ],
+    "expected_targets": [
+      "삼성SDI"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P14",
+    "category": "periodic_all_companies",
+    "question": "에코프로비엠의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001622"
+    ],
+    "expected_targets": [
+      "에코프로비엠"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P15",
+    "category": "periodic_all_companies",
+    "question": "POSCO홀딩스의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260311004517"
+    ],
+    "expected_targets": [
+      "POSCO홀딩스"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P16",
+    "category": "periodic_all_companies",
+    "question": "현대제철의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001506"
+    ],
+    "expected_targets": [
+      "현대제철"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P17",
+    "category": "periodic_all_companies",
+    "question": "세아베스틸지주의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260316001503"
+    ],
+    "expected_targets": [
+      "세아베스틸지주"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P18",
+    "category": "periodic_all_companies",
+    "question": "고려아연의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260601001725"
+    ],
+    "expected_targets": [
+      "고려아연"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P19",
+    "category": "periodic_all_companies",
+    "question": "삼성생명의 2025년 사업보고서 연결기준 영업수익과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260331004244"
+    ],
+    "expected_targets": [
+      "삼성생명"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P20",
+    "category": "periodic_all_companies",
+    "question": "KB금융의 2025년 사업보고서 연결기준 영업수익과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260324000835"
+    ],
+    "expected_targets": [
+      "KB금융"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P21",
+    "category": "periodic_all_companies",
+    "question": "신한지주의 2025년 사업보고서 연결기준 영업수익과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318000826"
+    ],
+    "expected_targets": [
+      "신한지주"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P22",
+    "category": "periodic_all_companies",
+    "question": "하나금융지주의 2025년 사업보고서 연결기준 영업수익과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260316001292"
+    ],
+    "expected_targets": [
+      "하나금융지주"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P23",
+    "category": "periodic_all_companies",
+    "question": "삼성화재의 2025년 사업보고서 연결기준 영업수익과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260312001399"
+    ],
+    "expected_targets": [
+      "삼성화재해상보험"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P24",
+    "category": "periodic_all_companies",
+    "question": "우리금융지주의 2025년 사업보고서 연결기준 영업수익과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260313001235"
+    ],
+    "expected_targets": [
+      "우리금융지주"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P25",
+    "category": "periodic_all_companies",
+    "question": "미래에셋증권의 2025년 사업보고서 연결기준 영업수익과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260515002972"
+    ],
+    "expected_targets": [
+      "미래에셋증권"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P26",
+    "category": "periodic_all_companies",
+    "question": "메리츠금융지주의 2025년 사업보고서 연결기준 영업수익과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260331004202"
+    ],
+    "expected_targets": [
+      "메리츠금융지주"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P27",
+    "category": "periodic_all_companies",
+    "question": "NAVER의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260313001021"
+    ],
+    "expected_targets": [
+      "NAVER"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P28",
+    "category": "periodic_all_companies",
+    "question": "카카오의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001423"
+    ],
+    "expected_targets": [
+      "카카오"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P29",
+    "category": "periodic_all_companies",
+    "question": "LG씨엔에스의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260316000832"
+    ],
+    "expected_targets": [
+      "LG씨엔에스"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P30",
+    "category": "periodic_all_companies",
+    "question": "SK텔레콤의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318000532"
+    ],
+    "expected_targets": [
+      "SK텔레콤"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P31",
+    "category": "periodic_all_companies",
+    "question": "KT의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260323001553"
+    ],
+    "expected_targets": [
+      "케이티"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P32",
+    "category": "periodic_all_companies",
+    "question": "LG유플러스의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260313000442"
+    ],
+    "expected_targets": [
+      "LG유플러스"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P33",
+    "category": "periodic_all_companies",
+    "question": "크래프톤의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260515002689"
+    ],
+    "expected_targets": [
+      "크래프톤"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P34",
+    "category": "periodic_all_companies",
+    "question": "엔씨소프트의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001448"
+    ],
+    "expected_targets": [
+      "NC"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P35",
+    "category": "periodic_all_companies",
+    "question": "시프트업의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001672"
+    ],
+    "expected_targets": [
+      "시프트업"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P36",
+    "category": "periodic_all_companies",
+    "question": "삼성바이오로직스의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260515001658"
+    ],
+    "expected_targets": [
+      "삼성바이오로직스"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P37",
+    "category": "periodic_all_companies",
+    "question": "셀트리온의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260316001415"
+    ],
+    "expected_targets": [
+      "셀트리온"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P38",
+    "category": "periodic_all_companies",
+    "question": "알테오젠의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260323001596"
+    ],
+    "expected_targets": [
+      "알테오젠"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P39",
+    "category": "periodic_all_companies",
+    "question": "한미약품의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260320001130"
+    ],
+    "expected_targets": [
+      "한미약품"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P40",
+    "category": "periodic_all_companies",
+    "question": "파마리서치의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260319001417"
+    ],
+    "expected_targets": [
+      "파마리서치"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P41",
+    "category": "periodic_all_companies",
+    "question": "디앤디파마텍의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260320001088"
+    ],
+    "expected_targets": [
+      "디앤디파마텍"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P42",
+    "category": "periodic_all_companies",
+    "question": "HD현대중공업의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260320000859"
+    ],
+    "expected_targets": [
+      "HD현대중공업"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P43",
+    "category": "periodic_all_companies",
+    "question": "한화오션의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260317000644"
+    ],
+    "expected_targets": [
+      "한화오션"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P44",
+    "category": "periodic_all_companies",
+    "question": "삼성중공업의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260312001037"
+    ],
+    "expected_targets": [
+      "삼성중공업"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P45",
+    "category": "periodic_all_companies",
+    "question": "두산에너빌리티의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260320001246"
+    ],
+    "expected_targets": [
+      "두산에너빌리티"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P46",
+    "category": "periodic_all_companies",
+    "question": "한전기술의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260326001003"
+    ],
+    "expected_targets": [
+      "한전기술"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P47",
+    "category": "periodic_all_companies",
+    "question": "우리기술의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260323001668"
+    ],
+    "expected_targets": [
+      "우리기술"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P48",
+    "category": "periodic_all_companies",
+    "question": "한화에어로스페이스의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260316001112"
+    ],
+    "expected_targets": [
+      "한화에어로스페이스"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P49",
+    "category": "periodic_all_companies",
+    "question": "현대로템의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260319001275"
+    ],
+    "expected_targets": [
+      "현대로템"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P50",
+    "category": "periodic_all_companies",
+    "question": "LIG넥스원의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260323001211"
+    ],
+    "expected_targets": [
+      "LIG디펜스앤에어로스페이스"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P51",
+    "category": "periodic_all_companies",
+    "question": "한국항공우주의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001461"
+    ],
+    "expected_targets": [
+      "한국항공우주"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P52",
+    "category": "periodic_all_companies",
+    "question": "아모레퍼시픽의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318000785"
+    ],
+    "expected_targets": [
+      "아모레퍼시픽"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P53",
+    "category": "periodic_all_companies",
+    "question": "LG생활건강의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260316000985"
+    ],
+    "expected_targets": [
+      "LG생활건강"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P54",
+    "category": "periodic_all_companies",
+    "question": "CJ제일제당의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260316001116"
+    ],
+    "expected_targets": [
+      "CJ제일제당"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P55",
+    "category": "periodic_all_companies",
+    "question": "이마트의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001024"
+    ],
+    "expected_targets": [
+      "이마트"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P56",
+    "category": "periodic_all_companies",
+    "question": "현대건설의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001395"
+    ],
+    "expected_targets": [
+      "현대건설"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P57",
+    "category": "periodic_all_companies",
+    "question": "삼성E&A의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260311003927"
+    ],
+    "expected_targets": [
+      "삼성E&A"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P58",
+    "category": "periodic_all_companies",
+    "question": "대우건설의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001029"
+    ],
+    "expected_targets": [
+      "대우건설"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P59",
+    "category": "periodic_all_companies",
+    "question": "HMM의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001444"
+    ],
+    "expected_targets": [
+      "HMM"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P60",
+    "category": "periodic_all_companies",
+    "question": "현대글로비스의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001205"
+    ],
+    "expected_targets": [
+      "현대글로비스"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P61",
+    "category": "periodic_all_companies",
+    "question": "LS ELECTRIC의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001243"
+    ],
+    "expected_targets": [
+      "엘에스일렉트릭"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P62",
+    "category": "periodic_all_companies",
+    "question": "HD현대일렉트릭의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260316000940"
+    ],
+    "expected_targets": [
+      "HD현대일렉트릭"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P63",
+    "category": "periodic_all_companies",
+    "question": "효성중공업의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260323001004"
+    ],
+    "expected_targets": [
+      "효성중공업"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P64",
+    "category": "periodic_all_companies",
+    "question": "한화솔루션의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260325001401"
+    ],
+    "expected_targets": [
+      "한화솔루션"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P65",
+    "category": "periodic_all_companies",
+    "question": "OCI홀딩스의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318000617"
+    ],
+    "expected_targets": [
+      "OCI홀딩스"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P66",
+    "category": "periodic_all_companies",
+    "question": "두산퓨얼셀의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001264"
+    ],
+    "expected_targets": [
+      "두산퓨얼셀"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P67",
+    "category": "periodic_all_companies",
+    "question": "하이브의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260320000802"
+    ],
+    "expected_targets": [
+      "하이브"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P68",
+    "category": "periodic_all_companies",
+    "question": "에스엠의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260317000781"
+    ],
+    "expected_targets": [
+      "에스엠"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P69",
+    "category": "periodic_all_companies",
+    "question": "JYP Ent의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260318001519"
+    ],
+    "expected_targets": [
+      "JYP Ent"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-P70",
+    "category": "periodic_all_companies",
+    "question": "와이지엔터테인먼트의 2025년 사업보고서 연결기준 매출액과 영업이익은 얼마인가?",
+    "expected_receipts": [
+      "20260323001610"
+    ],
+    "expected_targets": [
+      "와이지엔터테인먼트"
+    ],
+    "expected_intents": [
+      "periodic"
+    ],
+    "expected_groups": [
+      "periodic"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E01",
+    "category": "major:유상증자",
+    "question": "한화솔루션가 2026년에 공시한 유상증자 결정의 조달금액과 자금 사용목적을 정리해줘",
+    "expected_receipts": [
+      "20260326000538"
+    ],
+    "expected_targets": [
+      "한화솔루션"
+    ],
+    "expected_intents": [
+      "fundraising"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E02",
+    "category": "major:유상증자",
+    "question": "고려아연가 2026년에 공시한 유상증자 결정의 조달금액과 자금 사용목적을 정리해줘",
+    "expected_receipts": [
+      "20260219002746"
+    ],
+    "expected_targets": [
+      "고려아연"
+    ],
+    "expected_intents": [
+      "fundraising"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E03",
+    "category": "major:전환사채권발행",
+    "question": "한국항공우주가 2026년에 공시한 전환사채 발행 결정의 권면총액과 자금 사용목적을 정리해줘",
+    "expected_receipts": [
+      "20260205000384"
+    ],
+    "expected_targets": [
+      "한국항공우주"
+    ],
+    "expected_intents": [
+      "fundraising"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E04",
+    "category": "major:전환사채권발행",
+    "question": "우리기술가 2025년에 공시한 전환사채 발행 결정의 권면총액과 자금 사용목적을 정리해줘",
+    "expected_receipts": [
+      "20251120000565"
+    ],
+    "expected_targets": [
+      "우리기술"
+    ],
+    "expected_intents": [
+      "fundraising"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E05",
+    "category": "major:회사합병결정",
+    "question": "HD현대중공업가 2025년에 공시한 회사합병 결정의 합병비율과 주요 일정을 정리해줘",
+    "expected_receipts": [
+      "20250827000423"
+    ],
+    "expected_targets": [
+      "HD현대중공업"
+    ],
+    "expected_intents": [
+      "general"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E06",
+    "category": "major:회사합병결정",
+    "question": "에스엠가 2025년에 공시한 회사합병 결정의 합병비율과 주요 일정을 정리해줘",
+    "expected_receipts": [
+      "20250731000533"
+    ],
+    "expected_targets": [
+      "에스엠"
+    ],
+    "expected_intents": [
+      "general"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E07",
+    "category": "major:회사분할",
+    "question": "삼성바이오로직스가 2025년에 공시한 회사분할 결정의 분할 목적과 주요 일정을 정리해줘",
+    "expected_receipts": [
+      "20250822000109"
+    ],
+    "expected_targets": [
+      "삼성바이오로직스"
+    ],
+    "expected_intents": [
+      "general"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E08",
+    "category": "major:회사분할",
+    "question": "파마리서치가 2025년에 공시한 회사분할 결정의 분할 목적과 주요 일정을 정리해줘",
+    "expected_receipts": [
+      "20250708000069"
+    ],
+    "expected_targets": [
+      "파마리서치"
+    ],
+    "expected_intents": [
+      "general"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E09",
+    "category": "major:자기주식취득결정",
+    "question": "삼성전자가 2026년에 공시한 자기주식 취득 결정의 주식수와 예정금액을 정리해줘",
+    "expected_receipts": [
+      "20260318001062"
+    ],
+    "expected_targets": [
+      "삼성전자"
+    ],
+    "expected_intents": [
+      "shareholder_return"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E10",
+    "category": "major:자기주식취득결정",
+    "question": "아모레퍼시픽가 2026년에 공시한 자기주식 취득 결정의 주식수와 예정금액을 정리해줘",
+    "expected_receipts": [
+      "20260309001389"
+    ],
+    "expected_targets": [
+      "아모레퍼시픽"
+    ],
+    "expected_intents": [
+      "shareholder_return"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E11",
+    "category": "major:자기주식처분결정",
+    "question": "SK하이닉스가 2026년에 공시한 자기주식 처분 결정의 주식수와 예정금액을 정리해줘",
+    "expected_receipts": [
+      "20260330001812"
+    ],
+    "expected_targets": [
+      "SK하이닉스"
+    ],
+    "expected_intents": [
+      "shareholder_return"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E12",
+    "category": "major:자기주식처분결정",
+    "question": "현대차가 2026년에 공시한 자기주식 처분 결정의 주식수와 예정금액을 정리해줘",
+    "expected_receipts": [
+      "20260326001343"
+    ],
+    "expected_targets": [
+      "현대자동차"
+    ],
+    "expected_intents": [
+      "shareholder_return"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E13",
+    "category": "major:무상증자결정",
+    "question": "디앤디파마텍가 2025년에 공시한 무상증자 결정의 신주 수와 배정기준을 정리해줘",
+    "expected_receipts": [
+      "20251029000121"
+    ],
+    "expected_targets": [
+      "디앤디파마텍"
+    ],
+    "expected_intents": [
+      "general"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E14",
+    "category": "major:무상증자결정",
+    "question": "셀트리온가 2025년에 공시한 무상증자 결정의 신주 수와 배정기준을 정리해줘",
+    "expected_receipts": [
+      "20250528000411"
+    ],
+    "expected_targets": [
+      "셀트리온"
+    ],
+    "expected_intents": [
+      "general"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2025
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E15",
+    "category": "major:주식교환",
+    "question": "SK텔레콤가 2026년에 공시한 주식교환 결정의 교환비율과 주요 일정을 정리해줘",
+    "expected_receipts": [
+      "20260326000880"
+    ],
+    "expected_targets": [
+      "SK텔레콤"
+    ],
+    "expected_intents": [
+      "general"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E16",
+    "category": "major:주식교환",
+    "question": "이마트가 2026년에 공시한 주식교환 결정의 교환비율과 주요 일정을 정리해줘",
+    "expected_receipts": [
+      "20260310002918"
+    ],
+    "expected_targets": [
+      "이마트"
+    ],
+    "expected_intents": [
+      "general"
+    ],
+    "expected_groups": [
+      "major"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E17",
+    "category": "exchange:단일판매ㆍ공급계약체결",
+    "question": "한화오션가 2026년에 공시한 공급계약의 계약금액, 상대방, 매출액 대비 비율을 정리해줘",
+    "expected_receipts": [
+      "20260331803529"
+    ],
+    "expected_targets": [
+      "한화오션"
+    ],
+    "expected_intents": [
+      "contract"
+    ],
+    "expected_groups": [
+      "exchange"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E18",
+    "category": "exchange:단일판매ㆍ공급계약체결",
+    "question": "대우건설가 2026년에 공시한 공급계약의 계약금액, 상대방, 매출액 대비 비율을 정리해줘",
+    "expected_receipts": [
+      "20260331802536"
+    ],
+    "expected_targets": [
+      "대우건설"
+    ],
+    "expected_intents": [
+      "contract"
+    ],
+    "expected_groups": [
+      "exchange"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E19",
+    "category": "exchange:신규시설투자",
+    "question": "레인보우로보틱스가 2026년에 공시한 신규시설투자의 투자금액, 기간, 목적을 정리해줘",
+    "expected_receipts": [
+      "20260327903037"
+    ],
+    "expected_targets": [
+      "레인보우로보틱스"
+    ],
+    "expected_intents": [
+      "facility_investment"
+    ],
+    "expected_groups": [
+      "exchange"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E20",
+    "category": "exchange:신규시설투자",
+    "question": "셀트리온가 2026년에 공시한 신규시설투자의 투자금액, 기간, 목적을 정리해줘",
+    "expected_receipts": [
+      "20260324800030"
+    ],
+    "expected_targets": [
+      "셀트리온"
+    ],
+    "expected_intents": [
+      "facility_investment"
+    ],
+    "expected_groups": [
+      "exchange"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E21",
+    "category": "exchange:단일판매ㆍ공급계약해지",
+    "question": "삼성중공업가 2026년에 공시한 공급계약 해지의 해지금액과 사유를 정리해줘",
+    "expected_receipts": [
+      "20260316801038"
+    ],
+    "expected_targets": [
+      "삼성중공업"
+    ],
+    "expected_intents": [
+      "contract_termination"
+    ],
+    "expected_groups": [
+      "exchange"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E22",
+    "category": "exchange:단일판매ㆍ공급계약해지",
+    "question": "현대건설가 2026년에 공시한 공급계약 해지의 해지금액과 사유를 정리해줘",
+    "expected_receipts": [
+      "20260313801644"
+    ],
+    "expected_targets": [
+      "현대건설"
+    ],
+    "expected_intents": [
+      "contract_termination"
+    ],
+    "expected_groups": [
+      "exchange"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E23",
+    "category": "exchange:투자판단관련주요경영사항",
+    "question": "LG에너지솔루션가 2026년에 공시한 투자판단 관련 주요경영사항의 핵심 수치와 내용을 정리해줘",
+    "expected_receipts": [
+      "20260331801967"
+    ],
+    "expected_targets": [
+      "LG에너지솔루션"
+    ],
+    "expected_intents": [
+      "general"
+    ],
+    "expected_groups": [
+      "exchange"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E24",
+    "category": "exchange:투자판단관련주요경영사항",
+    "question": "셀트리온가 2026년에 공시한 투자판단 관련 주요경영사항의 핵심 수치와 내용을 정리해줘",
+    "expected_receipts": [
+      "20260330801419"
+    ],
+    "expected_targets": [
+      "셀트리온"
+    ],
+    "expected_intents": [
+      "general"
+    ],
+    "expected_groups": [
+      "exchange"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E25",
+    "category": "holding:주식등의대량보유상황보고서",
+    "question": "현대오토에버가 2026년에 공시한 5% 대량보유 보고의 보고자, 보유주식수와 보유비율을 정리해줘",
+    "expected_receipts": [
+      "20260331004752"
+    ],
+    "expected_targets": [
+      "현대오토에버"
+    ],
+    "expected_intents": [
+      "holding"
+    ],
+    "expected_groups": [
+      "holding"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  },
+  {
+    "id": "COV-E26",
+    "category": "holding:주식등의대량보유상황보고서",
+    "question": "현대제철가 2026년에 공시한 5% 대량보유 보고의 보고자, 보유주식수와 보유비율을 정리해줘",
+    "expected_receipts": [
+      "20260331003265"
+    ],
+    "expected_targets": [
+      "현대제철"
+    ],
+    "expected_intents": [
+      "holding"
+    ],
+    "expected_groups": [
+      "holding"
+    ],
+    "expected_years": [
+      2026
+    ],
+    "require_numeric_context": true
+  }
+]

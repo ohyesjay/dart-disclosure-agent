@@ -1,0 +1,34 @@
+[
+  {
+    "id": "S01",
+    "question": "제약사들의 빅파마 수주를 계약금액과 함께 비교해줘",
+    "expected_scope": "바이오·제약",
+    "expected_target_count": 6,
+    "expected_groups": ["exchange"],
+    "expected_hit_companies": ["삼성바이오로직스", "셀트리온", "알테오젠", "한미약품", "파마리서치"]
+  },
+  {
+    "id": "S02",
+    "question": "전력기업의 빅테크 수주를 계약금액과 매출액 대비 비율로 비교해줘",
+    "expected_scope": "전력기기",
+    "expected_target_count": 3,
+    "expected_groups": ["exchange"],
+    "expected_hit_companies": ["HD현대일렉트릭", "엘에스일렉트릭", "효성중공업"]
+  },
+  {
+    "id": "S03",
+    "question": "2차전지 기업의 증설과 유증을 투자금액과 조달금액 기준으로 비교해줘",
+    "expected_scope": "2차전지",
+    "expected_target_count": 3,
+    "expected_groups": ["exchange", "major"],
+    "expected_hit_companies": ["삼성SDI", "에코프로비엠"]
+  },
+  {
+    "id": "S04",
+    "question": "금융지주기업들의 배당과 주주환원을 배당금과 자사주 규모로 비교해줘",
+    "expected_scope": "금융지주",
+    "expected_target_count": 5,
+    "expected_groups": ["periodic", "major"],
+    "expected_hit_companies": ["KB금융", "메리츠금융지주", "신한지주", "우리금융지주", "하나금융지주"]
+  }
+]
