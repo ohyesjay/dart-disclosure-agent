@@ -1,0 +1,18 @@
+[Unit]
+Description=Mirae Disclosure Agent API
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/mirae-agent
+EnvironmentFile=/opt/mirae-agent/.env
+Environment=SEARCH_DB=/opt/mirae-agent/data/index/search.db
+ExecStart=/opt/mirae-agent/.venv/bin/uvicorn app.main:app --host 0.0.0.0 --port 80 --workers 1 --timeout-keep-alive 310
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
